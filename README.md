@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EABigEasy
+- 👀 I’m interested in Linux, Python, AWS and Devops.
+- 🌱 I’m currently learning Python and AWS...
+- 💞️ I’m looking to collaborate on Linux, Python, AWS and Devops projects.
+- 📫 How to reach me twitter.com/EmmanuelBigEasy
