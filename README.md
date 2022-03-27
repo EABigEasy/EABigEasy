@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EABigEasy
+- 👋 Hi, I’m Emmanuel
 - 👀 I’m interested in Linux, Python, AWS and Devops.
 - 🌱 I’m currently learning Python and AWS...
 - 💞️ I’m looking to collaborate on Linux, Python, AWS and Devops projects.
