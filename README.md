@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in Web development, Linux, and Cloud Engineering.
-- 🌱 I’m currently learning Software and Web Development.
-- 💞️ I’m looking to collaborate on  Web Dev projects, and Javascript projects.
-- 📫 How to reach me? Follow or checkout twitter.com/EmmanuelBigEasy
+- 👀 I’m interested in Software Engineering, Linux, and Cloud Engineering.
+- 🌱 I’m currently learning C#, Java, and Terraform.
+- 📫 How to reach me? twitter.com/EmmanuelBigEasy
