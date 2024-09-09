@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Emmanuel
 - 👀 I’m interested in Software Engineering, Linux, and Cloud Engineering.
 - 🌱 I’m currently learning C#, Java, and Terraform.
-- 📫 How to reach me? twitter.com/EmmanuelBigEasy
+- 📫 
